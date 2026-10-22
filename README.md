@@ -6,3 +6,10 @@ My own neovim config (and me playing around with it)
 ./setup
 NVIM_APPNAME=nvimconfig nvim
 ```
+
+Will get files from:
+
+- `~/.config/mydistro`
+- `~/.local/share/mydistro`
+- `~/.local/state/mydistro`
+- `~/.cache/mydistro`
